@@ -4,7 +4,7 @@
 
 
 
-<font color = 'gold' > <font size = '4' >Funcionario |<font color = 'gold' >< font size = '4'> Est.civil |< font color = 'gold'><font size = '4'> Inst    |<font color = 'gold'><font size = '4'> Filhos |<font color = 'gold'><font size = '4' > Salario |<font color = 'gold' ><font size = '4'> Anos |<font color = 'gold'><font size= '4'> Meses |<font color = 'gold'><font size = '4'> Regiao
+<font color = 'gold '  font size = '4' >Funcionario |<font color = 'gold'  font size = '4'> Est.civil | <font color = 'gold' font size = '4'> Inst    |<font color = 'gold' font size = '4'> Filhos |<font color = 'gold' font size = '4' > Salario |<font color = 'gold' font size = '4'> Anos |<font color = 'gold' font size= '4'> Meses |<font color = 'gold' font size = '4'> Regiao
 ------------|-----------|---------|--------|---------|------|-------|-----------
 <font size = '4' >1           |<font size = '3'> solteiro  |<font size = '3'> 1o grau |<font size = '3'> NaN    |<font size = '3'> 4.0     |<font size = '3'> 26   |<font size = '3'> 3     |<font size = '3' > interior
 <font size = '4' > 2           |<font size='3'> casado    |<font size = '3'> 1o grau |<font size = '3'> 1.0    |<font size = '3'> 4.56    |<font size = '3'> 32   |<font size= '3'> 10    |<font size = '3' > capital
@@ -15,3 +15,6 @@
 
 
 A empresa deseja saber algumas informações sobre esses dados e solícitas que você fará uma análise detalhada em um notebook. O notebook precisa estar **bem estruturado** e com **Markdowns** explicando cada insight encontrado.
+
+
+__Pesquisa se encontra no arquivo.ipynb__
